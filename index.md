@@ -1,4 +1,4 @@
-ICASSP 2024 - PAVITS Demo
-developed by Tianhua Qi (AIPL, Southeast University)
+Interspeech 2024 - EINet Demo
 
-[Click here for pavits4EVC.](https://jeremychee4.github.io/pavits4EVC)
+
+[Click here for EINet4EVC.](https://anonymousIS24.github.io/EINet4EVC)
